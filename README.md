@@ -8,6 +8,10 @@ pip install -r requirements.txt
 rum 8ball.py
 ```
 
+# Results
+
+<img src="./image.png" height=auto width=200>
+
 
 # LICENCE
 
